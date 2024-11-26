@@ -37,7 +37,7 @@ env:
   DIY_P2_SH: SL-3000/diy-part2.sh
   SSH_ACTIONS: false
   UPLOAD_FIRMWARE: true
-  UPLOAD_RELEASE: true
+  UPLOAD_RELEASE: false
   TZ: Asia/Shanghai
 
 jobs:
