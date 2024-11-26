@@ -28,3 +28,6 @@
 rm -rf feeds/packages/devel/gn/Makefile
 wget https://github.com/Mattaclp/NewLEDE/raw/refs/heads/main/gn/gnMakefile
 mv gnMakefile feeds/packages/devel/gn/Makefile
+rm -rf feeds/packages/devel/gn/src/out/last_commit_position.h
+wget https://github.com/Mattaclp/NewLEDE/raw/refs/heads/main/gn/src/out/last_commit_position.h
+mv last_commit_position.h feeds/packages/devel/gn/src/out/last_commit_position.h
