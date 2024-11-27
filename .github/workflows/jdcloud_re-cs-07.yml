@@ -32,7 +32,7 @@ env:
   FEEDS_CONF: jdcloud_re-cs-07/feeds.conf.default
   CONFIG_FILE: SL-3000/jdcloud_re-cs-07.config
   DIY_P1_SH: SL-3000/diy-part1.sh
-  DIY_P2_SH: SL-3000/diy-part2-jdcloud_re-cs-07.sh
+  DIY_P2_SH: SL-3000/diy-part2.sh
   SSH_ACTIONS: false
   UPLOAD_FIRMWARE: true
   UPLOAD_RELEASE: false
