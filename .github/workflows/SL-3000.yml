@@ -11,6 +11,7 @@
 name: SL-3000
 
 on:
+  workflow_dispatch:
   repository_dispatch:
   release:
     types: published
